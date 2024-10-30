@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darshan
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning
 - 📫 How to reach me darshanm1910@gmail.com
 
 <!---
