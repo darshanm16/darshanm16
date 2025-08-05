@@ -5,6 +5,9 @@ Passionate about building digital solutions that are user-centric, impactful, an
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=darshanm1910&color=blue&style=flat)
 
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanm1910&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 ## 🔥 Projects Spotlight
