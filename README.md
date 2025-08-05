@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Darshan M!
+# 👋 Hi, I'm Darshan!
 
 ### 🧑‍💻 Software Developer | Tech Enthusiast
 Passionate about building digital solutions that are user-centric, impactful, and scalable. I love transforming ideas into working products using **Python**, **Java**, and modern web technologies.
