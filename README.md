@@ -5,20 +5,6 @@ Passionate about building digital solutions that are user-centric, impactful, an
 
 ---
 
-## 🔥 My Projects
-
-### 📰 [Blogger – A Secure Space for Bloggers](https://blgr.pythonanywhere.com/)
-A full-featured blogging platform with:
-- ✍️ Blog writing and public/anonymous posting
-- 👥 Profiles with saved blogs & activity tracking
-- 🗳️ Blog moderation via community reporting
-- 💬 Interactions: Likes, Comments, Shares, Saves
-- 🔒 Privacy controls & trending blog system
-
-> Live at: [blgr.pythonanywhere.com](https://blgr.pythonanywhere.com)
-
----
-
 ## 💼 What I Do
 
 - 👨‍💻 Web Development using **Django**, **JavaScript**, **REST APIs**
