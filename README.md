@@ -3,7 +3,7 @@
 ### 🧑‍💻 Software Developer | Tech Enthusiast | Blogger  
 Passionate about building digital solutions that are user-centric, impactful, and scalable. I love transforming ideas into working products using **Python**, **Java**, **C**, and modern web technologies.
 
-[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanm1910&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Darshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshanm16&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
