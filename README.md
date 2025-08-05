@@ -24,7 +24,6 @@ Passionate about building digital solutions that are user-centric, impactful, an
 
 - 🔧 Backend development with Django, Java, and C
 - 🌐 Front-end development with HTML, CSS, JavaScript
-- 🔒 OTP/password-based authentication
 - 🧠 Learning AI, Generative AI, and System Design
 - 🗃️ Working with MySQL and REST APIs
 
@@ -33,8 +32,8 @@ Passionate about building digital solutions that are user-centric, impactful, an
 ## 📫 Let's Connect
 
 - 📧 [darshanm1910@gmail.com](mailto:darshanm1910@gmail.com)
-- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🧑‍💻 [My GitHub Projects](https://github.com/darshanm1910?tab=repositories)
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/darshanm19)
+- 🧑‍💻 [My GitHub Projects](https://github.com/darshanm16?tab=repositories)
 
 ---
 
